@@ -47,7 +47,7 @@ body {
 
 @media (max-width: 768px) {
   .home {
-    padding-top: 80px;
+    padding-top: 100px;
   }
 
   .home h1 {
